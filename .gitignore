@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets and credentials
+.env
+*.pem
+
+# Raw datasets and local databases
+data/
+*.sqlite
+*.db
+
+# Trained model files
+*.joblib
+
+# Operating system
+.DS_Store
